@@ -1,0 +1,239 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, Takayuki SHIMIZUKAWA
+# This file is distributed under the same license as the ドキュメントジェネレータSphinx package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ドキュメントジェネレータSphinx 6.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-04-06 16:52\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ..\..\index.rst:3
+# e099c198074545e9988703393d208485
+msgid "ドキュメントジェネレータSphinx"
+msgstr ""
+
+#: ..\..\index.rst:10
+#: ..\..\index.rst:258
+# f12daeba759c417dae8f03d86eebdbab
+# ca7384e6399d46ac9167ef76df12c0c9
+msgid "6周年おめでとうございます！"
+msgstr ""
+
+#: ..\..\index.rst:22
+# dce78b1e07294c9a908f42d2d9217a88
+msgid "提供"
+msgstr ""
+
+#: ..\..\index.rst:36
+# 889ddbaefbcc4a1194baaefbcb55410b
+msgid "おまえ、誰よ"
+msgstr ""
+
+#: ..\..\index.rst:39
+# 6195db9ae72b4c3e89f7b636f98c0f00
+msgid "`http://清水川.jp/ <http://清水川.jp/>`_ `@shimizukawa <http://twitter.com/shimizukawa>`_"
+msgstr ""
+
+#: ..\..\index.rst:41
+# 470a5bbfa87045dd95d806eb4c138bac
+msgid "活動:"
+msgstr ""
+
+#: ..\..\index.rst:42
+# dc97c815cb59471b850bd2648f7ec095
+msgid "Sphinxメンテナ, Sphinx-users.jp会長"
+msgstr ""
+
+#: ..\..\index.rst:43
+# 059ed68c37424586bb1fc4f001bd9062
+msgid "Python系, XP系, PyConJP 2012 副座長"
+msgstr ""
+
+#: ..\..\index.rst:43
+# 792e84f5298744589c6ee7e5c4530012
+msgid "最寄り路線"
+msgstr ""
+
+#: ..\..\index.rst:45
+# a430d66ed0d444f0bd8993111304bd00
+msgid "**都営新宿線**"
+msgstr ""
+
+#: ..\..\index.rst:47
+# d232ce1a7c2048979390b00a8e360e1e
+msgid "言語:"
+msgstr ""
+
+#: ..\..\index.rst:47
+# 6d405e40b1b64f938cbe2928064c39a5
+msgid "C++/C/8086/Python/**Rails**/**chef**"
+msgstr ""
+
+#: ..\..\index.rst:59
+# f6f4922b2aa04a0b9a0fe439c878ef19
+msgid "今日はアウェイ感満喫中 >_<"
+msgstr ""
+
+#: ..\..\index.rst:69
+#: ..\..\index.rst:113
+# a0f9527fe25344389c2b78349f1d3db2
+# 22ee82215cc843a3992b2d79b5bd11c2
+msgid "大場さんと万葉さんと私"
+msgstr ""
+
+#: ..\..\index.rst:79
+# 5fc10494ae624ed5bbf8bcb91f8551be
+msgid "築地の名前だし禁止のお店"
+msgstr ""
+
+#: ..\..\index.rst:84
+# fea6f6a4912b448587080186f68e859e
+msgid "楽しい仙台かき祭り 2009"
+msgstr ""
+
+#: ..\..\index.rst:89
+#: ..\..\index.rst:94
+# c00161d6adbe45a7837d5085efc1dca9
+# 4e5aba2bc4cf41c7afd6007872df1eb9
+msgid "楽しい仙台かき祭り 2010"
+msgstr ""
+
+#: ..\..\index.rst:107
+# 1bce69365e4441409ae6845c16249d4d
+msgid "万葉さん引っ越し"
+msgstr ""
+
+#: ..\..\index.rst:115
+# 2167f77661ee46e1930d95f653bffd22
+msgid "最初は飲み友達、"
+msgstr ""
+
+#: ..\..\index.rst:116
+# f84ed38b73e84c7f8de384affc07d77b
+msgid "その後万葉さんにRails仕事をお願いしたり、されたり"
+msgstr ""
+
+#: ..\..\index.rst:117
+# 04231edd04394f91873ffa258822471e
+msgid "そのときにSphinxをちょろっと紹介したり"
+msgstr ""
+
+#: ..\..\index.rst:132
+# 571fc3866cea493fa3552591fdf4b044
+msgid "ということで"
+msgstr ""
+
+#: ..\..\index.rst:142
+# 29dc5d5c1cd8414ba34254f27dc6ab70
+msgid "Sphinxです"
+msgstr ""
+
+#: ..\..\index.rst:159
+# 666f4367f6914ecea3cabd09cf9c392e
+msgid "Sphinxとは？"
+msgstr ""
+
+#: ..\..\index.rst:161
+# a73af94ce088421895a6b82108c795c9
+msgid "ドキュメント生成のツール"
+msgstr ""
+
+#: ..\..\index.rst:162
+# 716479b00f9c48db859bdfffe2acf252
+msgid "reStructuredText記法(Wikiっぽい?"
+msgstr ""
+
+#: ..\..\index.rst:163
+# 0d0e7e413260465fa55081bef07f2f63
+msgid "ページ間のリンクを自動生成"
+msgstr ""
+
+#: ..\..\index.rst:164
+# 5cab214a9cea4b2fb40e284beef2f090
+msgid "強力なコードハイライト"
+msgstr ""
+
+#: ..\..\index.rst:165
+# 23fbc6e427f74af5b6b01517d3ab2ab8
+msgid "出力形式: HTML, PDF, ePub, htmlhelp, latex, man..."
+msgstr ""
+
+#: ..\..\index.rst:169
+# acde051c9ca640368881c118844aedc0
+msgid "Sphinxの記入の例"
+msgstr ""
+
+#: ..\..\index.rst:194
+# 216148996d9d47cabf27ab7a176fd596
+msgid "Sphinx 1.2b1 リリース"
+msgstr ""
+
+#: ..\..\index.rst:196
+# 51a11eb8bbf24799b2d51c17fd9b716b
+msgid "**3/31に1年ぶりにリリース！**"
+msgstr ""
+
+#: ..\..\index.rst:198
+# f591627ed7fd4bb4a4a37e24d14c9549
+msgid "複数メンテナ体制で最初のリリース"
+msgstr ""
+
+#: ..\..\index.rst:199
+# 3c38ce542b1d44b1ac14ce8c6f8e6a9c
+msgid "国際化(i18n)機能の大幅強化"
+msgstr ""
+
+#: ..\..\index.rst:200
+# b2f10e1bb6764371a9ab01ccbc25ef24
+msgid "マルチバイト言語対応強化"
+msgstr ""
+
+#: ..\..\index.rst:210
+# 54c83e3ee6114cf7a9b442e3cf97812c
+msgid "Sphinxの国際化(i18n)機能の強化"
+msgstr ""
+
+#: ..\..\index.rst:212
+# a59d5bec76f341959d9990e65652ed7d
+msgid "翻訳対象となっていなかった多くの箇所の対応"
+msgstr ""
+
+#: ..\..\index.rst:213
+# d378fc00e4e84c21a7360e29235a49ea
+msgid "公式ドキュメント多言語化(進行中) Sphinx国際化機能の **モデルケース**"
+msgstr ""
+
+#: ..\..\index.rst:220
+# 5708a1ecd75a45bda0c32742497d01fe
+msgid "公式ドキュメント多言語化計画"
+msgstr ""
+
+#: ..\..\index.rst:222
+# c573e919134c434496548d28331d4548
+msgid "日本語公式ドキュメントは今まで直接書き換えていました:"
+msgstr ""
+
+#: ..\..\index.rst:233
+# 3c13bf2bb10a4e9c911e313e93675bba
+msgid "今は翻訳を Transifex_ で行っています"
+msgstr ""
+
+#: ..\..\index.rst:240
+# d06fcdd3b41147b3a7f865da95f1be23
+msgid "デモ"
+msgstr ""
+
+#: ..\..\index.rst:250
+# 5f6c00783dc84138b372499b61c1409b
+msgid "さいごに"
+msgstr ""
+
